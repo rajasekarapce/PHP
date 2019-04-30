@@ -1,6 +1,5 @@
-<?php include "header.php";  
-
-$upd = isset($upd)?$upd:'';
+<?php include "header.php";
+$upd = isset($upd)?$upd:'0';
 $id = isSet($id) ? $id : '' ;
 $act  = isSet($act) ? $act : '' ;
 $page  = isSet($page) ? $page : '' ;
