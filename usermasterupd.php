@@ -1,4 +1,4 @@
-<?php include "header.php"; 
+<?php include "header.php";  
 
 $upd = isset($upd)?$upd:'';
 $id = isSet($id) ? $id : '' ;
